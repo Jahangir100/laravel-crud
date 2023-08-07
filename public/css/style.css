@@ -1,0 +1,14 @@
+
+#title{
+     background-color: aqua;
+     height: 100px;
+     
+}
+#title{
+     border-radius: 200px 0px 200px 0px;
+}
+
+h1{
+     color: red;
+     text-align: center;
+}
